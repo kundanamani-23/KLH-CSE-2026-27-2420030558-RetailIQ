@@ -116,6 +116,7 @@ The interactive dashboard will be developed using Streamlit.
 
 ```bash
 streamlit run dashboard/app.py
+```
 
 ## Current Phase Status
 
@@ -126,7 +127,7 @@ streamlit run dashboard/app.py
 - **Phase 5 – Model Development:** 
 - **Phase 6 – Dashboard Development:** 
 - **Phase 7 – Testing & Final Documentation:**
-```
+
 
 ## Expected Outcome
 
